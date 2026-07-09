@@ -10,8 +10,10 @@
 #eventwo{
     font-size: 24px;
 }
-.oddextra{
+.odd{
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
+}
+.extra{
+    font-size: 24px;
 }
