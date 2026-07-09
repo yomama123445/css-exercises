@@ -8,11 +8,9 @@
     font-size: 36px;
 }
 #eventwo{
-    font-size: 24px;
-}
-.odd{
     background-color: lightgreen;
     font-weight: bold;
+    font-size: 24px;
 }
 .extra{
     font-size: 24px;
