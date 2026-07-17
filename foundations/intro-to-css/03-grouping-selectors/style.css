@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.blackbox {
+    background-color: black;
+    color: white;
+}
+.yellow-bg {
+    background-color: yellow;
+}
+.blackbox,
+.yellow-bg {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
