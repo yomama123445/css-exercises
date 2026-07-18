@@ -1,17 +1,17 @@
-/* Add CSS Styling */
-.odd {
-    background-color: #ffcccc;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+.odd,
+.odd1 {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+    
 }
-#even{
+#even {
     color: blue;
     font-size: 36px;
 }
-#eventwo{
+#even1 {
     background-color: lightgreen;
+    font-size: 24px;
     font-weight: bold;
-    font-size: 24px;
 }
-.extra{
-    font-size: 24px;
-}
+
